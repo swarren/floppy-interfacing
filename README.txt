@@ -144,3 +144,6 @@ The inspiration for this project:
 https://hackaday.com/2019/02/19/flux-engine-reads-floppies/
 https://github.com/davidgiven/fluxengine
 https://www.youtube.com/results?search_query=floppotron
+
+Video of the music playing application working:
+https://www.youtube.com/watch?v=6ZiQmYZQK00
